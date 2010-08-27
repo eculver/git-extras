@@ -1,5 +1,5 @@
 
-PREFIX = /usr/local
+PREFIX = $(HOME)/Developer
 
 BINS = \
 	git-count \
