@@ -1,5 +1,5 @@
 
-PREFIX = $(HOME)/Developer
+PREFIX = $(HOME)
 
 BINS = \
 	git-count \
